@@ -13,7 +13,7 @@ I'm a Data Scientist and Machine Learning enthusiast with a passion for building
 ### [YOLOv10 Nodule Detection](https://github.com/your-username/yolov10-nodule-detection)
 A custom object detection model built using YOLOv10, focused on detecting nodules in medical images. This project involved training a custom single-class dataset and achieving high accuracy in real-time detection. After that it excelled in lung nodules classification using 3D CNN.
 
-### [Pipeline to determine good chess moves determinants)
+### [Pipeline to determine good chess moves determinants](https://github.com/franekaczmarek/chess_ACPL_analysis_with_linear_regression)
 This project demonstrates the analysis of chess games using R and a chess engine. The focus is on calculating the Average Centipawn Loss (ACPL), which represents the accuracy of chess moves in a given game. Additionally, the project applies linear regression models and various statistical tests to examine the determinants of ACPL, providing insights into factors influencing the precision of chess moves.
 
 
