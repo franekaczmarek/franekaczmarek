@@ -10,7 +10,7 @@ I'm a Data Scientist and Machine Learning enthusiast with a passion for building
 - **Tools**: Git, Jupyter, SQL, Excel, Bash
 
 ## Projects
-### [YOLOv10 Nodule Detection](https://github.com/your-username/yolov10-nodule-detection](https://github.com/franekaczmarek/YOLO-Pipelines-for-Lung-Nodule-Detection)
+### [YOLOv10 Nodule Detection](https://github.com/franekaczmarek/YOLO-Pipelines-for-Lung-Nodule-Detection)
 A custom object detection model built using YOLOv10, focused on detecting nodules in medical images. This project involved training a custom single-class dataset and achieving high accuracy in real-time detection. After that it excelled in lung nodules classification using 3D CNN.
 
 ### [Pipeline to determine good chess moves determinants](https://github.com/franekaczmarek/chess_ACPL_analysis_with_linear_regression)
